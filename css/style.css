@@ -1,0 +1,36 @@
+body {
+  background-color: #f6faff;
+}
+
+.d-flex {
+  justify-content: right;
+}
+
+.solicitudes {
+  width: 100vw;
+  height: 40px;
+  margin: 4% 15%;
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 14;
+  font-weight: bold;
+}
+
+.solicitudescards {
+  width: 100vw;
+  height: 40px;
+  margin: 4% 15%;
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 14;
+  font-weight: bold;
+}
+.card {
+  margin: 0 1%;
+  width: 100vw;
+}
+.solicitudescardsecond {
+  margin: 20% 15% 0 15%;
+}
